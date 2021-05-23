@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactjsmaterialui/static/css/main.e5970b22.chunk.css",
+    "main.js": "/reactjsmaterialui/static/js/main.8dddf54f.chunk.js",
+    "main.js.map": "/reactjsmaterialui/static/js/main.8dddf54f.chunk.js.map",
+    "runtime-main.js": "/reactjsmaterialui/static/js/runtime-main.10a45f15.js",
+    "runtime-main.js.map": "/reactjsmaterialui/static/js/runtime-main.10a45f15.js.map",
+    "static/js/2.1d84f554.chunk.js": "/reactjsmaterialui/static/js/2.1d84f554.chunk.js",
+    "static/js/2.1d84f554.chunk.js.map": "/reactjsmaterialui/static/js/2.1d84f554.chunk.js.map",
+    "index.html": "/reactjsmaterialui/index.html",
+    "static/css/main.e5970b22.chunk.css.map": "/reactjsmaterialui/static/css/main.e5970b22.chunk.css.map",
+    "static/js/2.1d84f554.chunk.js.LICENSE.txt": "/reactjsmaterialui/static/js/2.1d84f554.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactjsmaterialui/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10a45f15.js",
+    "static/js/2.1d84f554.chunk.js",
+    "static/css/main.e5970b22.chunk.css",
+    "static/js/main.8dddf54f.chunk.js"
+  ]
+}
